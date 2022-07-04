@@ -1,0 +1,7 @@
+.idea/
+/node_modules
+/.next
+.env
+.env.production
+
+bucket-cors.json
